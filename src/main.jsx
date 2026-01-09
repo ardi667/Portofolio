@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import App from './app.jsx'
 import './index.css'
 
 // Mencari elemen dengan id 'root' di index.html dan merender aplikasi React di sana
